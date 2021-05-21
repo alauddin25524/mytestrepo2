@@ -4,3 +4,4 @@ GCP
 IBM Cloud
 Ali Cloud
 Huawei Fusion Cloud
+Digital Ocean
